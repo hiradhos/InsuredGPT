@@ -5,7 +5,7 @@ Simple interface for patients and any general policyholders to get their questio
 
 Install all required packages 
 ```
-pip install langchain openai chromadb tiktoken unstructured
+pip install langchain openai chromadb tiktoken unstructured cmake
 pip install "unstructured[pdf]"
 ```
 
